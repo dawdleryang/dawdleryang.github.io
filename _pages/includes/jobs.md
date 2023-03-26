@@ -1,4 +1,4 @@
-# 💬 Job Openings
+# 🔊 Job Openings
 <b><hl_color>PhD Scholarships:</hl_color></b> 
 <a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa"><b>Singapore International Graduate Award (SINGA) Scholarship</b></a> supports international students who wish to pursue their PhDs, collaborated with Singapore Universities (NUS, NTU, and SUTD). 
 				
