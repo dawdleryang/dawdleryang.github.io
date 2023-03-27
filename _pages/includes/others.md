@@ -1,4 +1,4 @@
-# 📽 Experience
+# 📽 Experiences
 - Senior Scientist & Group Leader, I2R, ASTAR 
 - Head of Research, YITU Technology Singapore
 - Scientist / Senior Scientist & Programme Head, IHPC/I2R, ASTAR
