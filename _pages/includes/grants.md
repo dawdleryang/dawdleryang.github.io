@@ -1,4 +1,4 @@
-# 🎖Grants 
+# 🎖 Grants 
 <b> Current (2021-now) </b>
 - <b> Principal Investigator </b>, "Towards Realistic Deep Learning for 3D Vision", MTC Programmatic Programme, approved. 
 - <b> Co-Principal Investigator </b>, "Label-efficient Meta-learning for Cross-domain Medical Image Segmentation", AI3 HTPO Seed Fund (AI3 SF), kick-off soon  
