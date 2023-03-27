@@ -1,6 +1,7 @@
 # 🥇 Honors
 - 2013-now Senior IEEE Member; 2017-now Kaggle Competition Master 
 - 2016-2018 Kaggle Competitions: 2 gold, 7 sliver, 2 bronze
+        -        
         - Intel & MobileOTD Cervical Cancer Screening, Rank 3rd/848 (USD10k), Top 1%
         - The Nature Conservancy Fisheries Monitoring, Rank 4th/2293 (USD20k), Top 1%
         - Dogs vs. Cats Redux: Kernels Edition, Rank 5th/1389, Top 1%
@@ -10,5 +11,6 @@
         - Santander Value Prediction Challenge, Rank 36th/4477, Top 1%
         - Statoil/C-CORE Iceberg Classifier Challenge, Rank 39th/3449, Top 2%
         - Home Credit Default Risk, Rank 52th/7190, Top 1%
+        - 
 - 2015    Rakuten-Viki Global TV Recommender Challenge, 1st place (SGD8k)
 
