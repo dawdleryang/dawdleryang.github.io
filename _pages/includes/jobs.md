@@ -1,4 +1,4 @@
-# 📢 Job Openings
+# 📢 Openings
 
 <b><hl_color>Pre-Graduate Scholarships:</hl_color></b> 
 <a href="https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga"><b>Singapore International Pre-Graduate Award (SIPGA) Scholarship</b></a> supports short-term (a maximum of 6 months) research attachments for top international students at ASTAR. This award is eligible for students who are pursuing their Bachelor’s or Master’s degrees. 
