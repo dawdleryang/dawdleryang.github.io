@@ -11,7 +11,6 @@
         - Santander Value Prediction Challenge, Rank 36th/4477, Top 1%
         - Statoil/C-CORE Iceberg Classifier Challenge, Rank 39th/3449, Top 2%
         - Home Credit Default Risk, Rank 52th/7190, Top 1%
-
-- 2016    IDA Video Tracking Challenge, 4th place
+        - 
 - 2015    Rakuten-Viki Global TV Recommender Challenge, 1st place (SGD8k)
 
