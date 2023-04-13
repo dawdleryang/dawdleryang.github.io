@@ -1,8 +1,9 @@
 # 📢 Openings
 <b><hl_color>Research Scientists & Engineers on 3D Vision:</hl_color></b> 
-We are looking for outstanding candidates to join our team at I2R, A\*STAR, to work on the following two research topics:
-- Multi-modal Learning for 3D Scene Understanding
-- Robust Learning for 3D Scene Understanding 
+We are looking for outstanding candidates to join our team at I2R, A\*STAR, to work on the following research topics:
+- Multi-modal Learning for 3D Scene Understanding (The goal of multi-modal learning is to fuse the advantage properties from each modality to complement each other and achieve comprehensive understanding of 3D scenes.) 
+- Robust Learning for 3D Scene Understanding (The goal of robust learning for 3D scene understanding is to solve the imperative problems of scene understanding in real-world environments that usually are not independent and identically distributed or stationary.)  
+
 
 <b><hl_color>PhD Scholarships:</hl_color></b> 
 <a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa"><b>Singapore International Graduate Award (SINGA) Scholarship</b></a> supports international students who wish to pursue their PhD degree, collaborated with Singapore Universities (NUS, NTU, SUTD, and SMU). 
