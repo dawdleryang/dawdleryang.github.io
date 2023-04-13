@@ -1,8 +1,8 @@
 # 📢 Openings
 <b><hl_color>Research Scientists & Engineers on 3D Vision:</hl_color></b> 
 We are looking for outstanding candidates to join our team at I2R, A\*STAR, to work on the following research topics:
-- Multi-modal Learning for 3D Scene Understanding (The goal of multi-modal learning is to fuse the advantage properties from each modality to complement each other and achieve comprehensive understanding of 3D scenes.) 
-- Robust Learning for 3D Scene Understanding (The goal of robust learning is to solve the imperative problems of scene understanding in real-world environments that usually are not independent and identically distributed or stationary.)  
+- <b>Multi-modal Learning for 3D Scene Understanding</b> (The goal of multi-modal learning is to fuse the advantage properties from each modality to complement each other and achieve comprehensive understanding of 3D scenes.) 
+- <b>Robust Learning for 3D Scene Understanding</b> (The goal of robust learning is to solve the imperative problems of scene understanding in real-world environments that usually are not independent and identically distributed or stationary.)  
 
 
 <b><hl_color>PhD Scholarships:</hl_color></b> 
