@@ -1,4 +1,5 @@
 # 📺 News
+- 2023.7: Three papers are accepted by <a href="https://2023.ieeeicip.org/"><b>ICIP 2013</b></a>. 1) deep video model for deepfake detection 2) facial attribute systhesis by disentangling attribute feature axis 3) contrastive co-teaching network for 3D incremental object detection,
 - 2023.6: We are calling for paper submission to ICDM 2023 Workshop <a href="https://ml4cyber.github.io/23/"><b>Machine Learning for Cybersecurity (MLC)</b></a>  
 - 2023.5: We are calling for the support of Industry Sponsorship of IEEE 6th International Conference on Multimedia Information Processing and Retrieval <a href="http://www.ieee-mipr.org/"><b>MIPR 2013</b></a>
 - 2023.4: Our paper “SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein–Protein Interaction Prediction” was accepted by <a href="https://ijcai-23.org/"><b>IJCAI 2013</b></a>. 
