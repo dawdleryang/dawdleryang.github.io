@@ -1,4 +1,4 @@
-I am currently a Senior Scientist and Group Leader in Institute for Infocomm Research (I2R), A\*STAR Singapore, previously the Head of Research in YITU Technology Singapore. 
+I am currently a Principal Scientist and Group Leader in Institute for Infocomm Research (I2R), A\*STAR Singapore, previously the Head of Research in YITU Technology Singapore. 
 
 My research interests include:
 - 3D Scene Understanding
