@@ -1,4 +1,5 @@
 # 📝 Publications 
+- H Wang, <b> X Yang</b>, *Efficient Practices for Profile-to-Frontal Face Synthesis and Recognition*, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
 - Z Zhao, P Qian, <b>X Yang\*</b>, Z Zeng, C Guan, WL Tam, X Li, *SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein–Protein Interaction Prediction*, International Joint Conference on Artificial Intelligence (IJCAI), 2023
 - Z Zhao, K Xu, HZ Yeo, <b>X Yang</b>, C Guan, *MS-MT: Multi-Scale Mean Teacher with Contrastive Unpaired Translation for Cross-Modality Vestibular Schwannoma and Cochlea Segmentation*, arXiv:2303.15826, 2023
 - H Wang, H Zhang, L Yu, <b> X Yang</b>, *Facial feature embedded CycleGAN for VIS–NIR translation*, Multidimensional Systems and Signal Processing, 2023
