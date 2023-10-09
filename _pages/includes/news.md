@@ -1,4 +1,6 @@
 # 📺 News
+- 2023.9: Our paper "Efficient Vision Transformer for Human-Centric AIoT Applications Through Token Tracking Assignment" was accepted by IEEE TCE
+- 2023.8: Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/10242296">Towards Communication-efficient Digital Twin via AI-powered Transmission and Reconstruction</a>" was accepted by IEEE JSAC 
 - 2023.7: Three papers were accepted by <a href="https://2023.ieeeicip.org/"><b>ICIP 2013</b></a>. 1) deep video model for deepfake detection 2) facial attribute systhesis by disentangling feature axis 3) contrastive co-teaching network for 3D incremental object detection.
 - 2023.6: We are calling for paper submission to ICDM 2023 Workshop <a href="https://ml4cyber.github.io/23/"><b>Machine Learning for Cybersecurity (MLC)</b></a>  
 - 2023.5: We are calling for the support of Industry Sponsorship of IEEE 6th International Conference on Multimedia Information Processing and Retrieval <a href="http://www.ieee-mipr.org/"><b>MIPR 2013</b></a>
