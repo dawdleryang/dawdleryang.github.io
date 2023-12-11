@@ -1,5 +1,6 @@
 # 📺 News
-- 2023.9: Our paper "Efficient Vision Transformer for Human-Centric AIoT Applications Through Token Tracking Assignment" was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30">IEEE TCE</a> 
+- 2023.10: Our paper "An Intelligent Edge-Cloud Collaborative Framework for Communication Security in Distributed Cyber-Physical Systems" was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65">IEEE Network</a> 
+- 2023.10: Our paper "Efficient Vision Transformer for Human-Centric AIoT Applications Through Token Tracking Assignment" was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30">IEEE TCE</a> 
 - 2023.8: Our paper "Towards Communication-efficient Digital Twin via AI-powered Transmission and Reconstruction" was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49">IEEE JSAC</a> 
 - 2023.7: Three papers were accepted by <a href="https://2023.ieeeicip.org/"><b>ICIP 2013</b></a>. 1) Controlling Facial Attribute Synthesis by Disentangling Attribute Feature Axes in Latent Space 2) COCO-TEACH: A Contrastive Co-Teaching Network For Incremental 3D Object Detection 3) An Efficient Deep Video Model For Deepfake Detection.
 - 2023.6: We are calling for paper submission to ICDM 2023 Workshop <a href="https://ml4cyber.github.io/23/"><b>Machine Learning for Cybersecurity (MLC)</b></a>  
