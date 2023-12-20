@@ -1,4 +1,6 @@
 # 📝 Publications 
+- C Li, Y Peng, G Liu, Y Li, <b> X Yang</b>, L Zhang, C Chen, Efficient Vision Transformer for Human-Centric AIoT Applications Through Token Tracking Assignment, IEEE Transactions on Consumer Electronics, 2023
+- C Chen, Y Li, Q Wang, <b> X Yang</b>, X Wang, LT Yang, An Intelligent Edge-Cloud Collaborative Framework for Communication Security in Distributed Cyber-Physical Systems, IEEE Network, 2023
 - M. Li, C. Chen, <b> X Yang</b>, J. Zhou, T. Zhang, Y. Li, *Towards Communication-efficient Digital Twin via AI-powered Transmission and Reconstruction*, IEEE Journal on Selected Areas in Communications, 2023
 - R Sun, Z Zhao, L Shen, Z Zeng, Y Li, B Veeravalli, <b> X Yang</b>, *An Efficient Deep Video Model For Deepfake Detection*, IEEE International Conference on Image Processing (ICIP), 2023
 - Z Cheng, C Chen, Z Zhao, P Qian, X Li, <b> X Yang</b>, *COCO-TEACH: A Contrastive Co-Teaching Network For Incremental 3D Object Detection*, IEEE International Conference on Image Processing (ICIP), 2023
