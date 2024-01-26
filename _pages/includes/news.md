@@ -1,5 +1,5 @@
 # 📺 News
-- 2024.1: Our paper "Deep learning based CETSA feature prediction cross multiple cell lines with latent space representation" is accepted by <a href="https://www.nature.com/srep/">Scientific Reports</a>, <a href="https://rdcu.be/dwC0L">PDF</a>
+- 2024.1: Our paper "Deep learning based CETSA feature prediction cross multiple cell lines with latent space representation" is accepted by <a href="https://www.nature.com/srep/">Scientific Reports</a>, <a href="https://rdcu.be/dwC0L">link</a>
 - 2023.12: Our proposal CARDIA-GM has been awarded for Venture Exploration Workshop (Phase I) by <a href="https://smart.mit.edu/innovation-centre/our-program/innovation-2-0">SMART Innovation 2.0 Grant</a>
 - 2023.10: Our paper "An Intelligent Edge-Cloud Collaborative Framework for Communication Security in Distributed Cyber-Physical Systems" was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65">IEEE Network</a> 
 - 2023.10: Our paper "Efficient Vision Transformer for Human-Centric AIoT Applications Through Token Tracking Assignment" was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30">IEEE TCE</a> 
