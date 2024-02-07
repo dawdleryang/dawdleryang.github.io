@@ -1,5 +1,5 @@
 # 📺 News
-- 2024.2: We are calling for paper submission to <a href="https://sse.sysu.edu.cn/icnc2024/index.htm">ICNC-FSKD 2024</a>. Honor being the Organizing Committee Chair.  
+- 2024.2: We are calling for paper submission to <a href="https://sse.sysu.edu.cn/icnc2024/index.htm">ICNC-FSKD 2024</a>. An honor to serve as the Organizing Committee Chair.  
 - 2024.1: Our paper "Deep learning based CETSA feature prediction cross multiple cell lines with latent space representation" is accepted by <a href="https://www.nature.com/srep/">Scientific Reports</a>, <a href="https://rdcu.be/dwC0L">link</a>
 - 2023.12: Our proposal CARDIA-GM has been awarded for Venture Exploration Workshop (Phase I) by <a href="https://smart.mit.edu/innovation-centre/our-program/innovation-2-0">SMART Innovation 2.0 Grant</a>
 - 2023.10: Our paper "An Intelligent Edge-Cloud Collaborative Framework for Communication Security in Distributed Cyber-Physical Systems" was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65">IEEE Network</a> 
