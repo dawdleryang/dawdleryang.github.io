@@ -1,5 +1,5 @@
 # 📺 News
-- 2024.2: Our book "Deep Learning for 3D Vision: Algorithms and Applications" will be published soon by World Scientific Publishing, refer to <a href="https://www.worldscientific.com/worldscibooks/10.1142/13683#t=aboutBook">this link</a>.  
+- 2024.2: Our book "Deep Learning for 3D Vision: Algorithms and Applications" will be published soon by World Scientific Publishing, refer to <a href="https://www.worldscientific.com/worldscibooks/10.1142/13683#t=aboutBook">announce link</a> and <a href="https://www.researchgate.net/publication/375467662_Deep_Learning_for_3D_Vision_Algorithms_and_Applications#fullTextFileContent">preface</a> for the preview of this book.   
 - 2024.2: We are calling for paper submission to <a href="https://sse.sysu.edu.cn/icnc2024/index.htm">ICNC-FSKD 2024</a>. An honor to serve as the Organizing Committee Chair.  
 - 2024.1: Our paper "Deep learning based CETSA feature prediction cross multiple cell lines with latent space representation" is accepted by <a href="https://www.nature.com/srep/">Scientific Reports</a>, <a href="https://rdcu.be/dwC0L">link</a>
 - 2023.12: Our proposal CARDIA-GM has been awarded for Venture Exploration Workshop (Phase I) by <a href="https://smart.mit.edu/innovation-centre/our-program/innovation-2-0">SMART Innovation 2.0 Grant</a>
