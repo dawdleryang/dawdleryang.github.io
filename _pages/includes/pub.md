@@ -1,5 +1,5 @@
 # 📝 Publications 
-- G Rui, W Liu, Z GU, <b> X Yang\*</b>, J Cheng, Learning Intra-view and Cross-view Geometric Knowledge for Stereo Matching, CVPR 2024
+- G Rui, W Liu, Z GU, <b> X Yang</b>, J Cheng, Learning Intra-view and Cross-view Geometric Knowledge for Stereo Matching, CVPR 2024
 - S Zhao, <b> X Yang\*</b>, Z Zeng, et. al, Deep learning based CETSA feature prediction cross multiple cell lines with latent space representation, Scientific Reports, 2024
 - C Li, Y Peng, G Liu, Y Li, <b> X Yang</b>, L Zhang, C Chen, Efficient Vision Transformer for Human-Centric AIoT Applications Through Token Tracking Assignment, IEEE Transactions on Consumer Electronics, 2023
 - C Chen, Y Li, Q Wang, <b> X Yang</b>, X Wang, LT Yang, An Intelligent Edge-Cloud Collaborative Framework for Communication Security in Distributed Cyber-Physical Systems, IEEE Network, 2023
