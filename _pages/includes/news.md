@@ -1,14 +1,15 @@
 # 📺 News
+- 2022.3: One paper was accepted by <a href="https://cvpr.thecvf.com/"><b>CVPR 2024</b></a>.
 - 2024.2: Our book "Deep Learning for 3D Vision: Algorithms and Applications" will be published soon by World Scientific Publishing, refer to <a href="https://www.worldscientific.com/worldscibooks/10.1142/13683#t=aboutBook">announce</a> and <a href="https://www.researchgate.net/publication/375467662_Deep_Learning_for_3D_Vision_Algorithms_and_Applications#fullTextFileContent">preface</a> for the preview of this book.   
 - 2024.2: We are calling for paper submission to <a href="https://sse.sysu.edu.cn/icnc2024/index.htm">ICNC-FSKD 2024</a>. An honor to serve as the Organizing Committee Chair.  
-- 2024.1: Our paper "Deep learning based CETSA feature prediction cross multiple cell lines with latent space representation" is accepted by <a href="https://www.nature.com/srep/">Scientific Reports</a>, <a href="https://rdcu.be/dwC0L">link</a>
+- 2024.1: One paperwas accepted by <a href="https://www.nature.com/srep/">Scientific Reports</a>, <a href="https://rdcu.be/dwC0L">link</a>
 - 2023.12: Our proposal CARDIA-GM has been awarded for Venture Exploration Workshop (Phase I) by <a href="https://smart.mit.edu/innovation-centre/our-program/innovation-2-0">SMART Innovation 2.0 Grant</a>
-- 2023.10: Our paper "An Intelligent Edge-Cloud Collaborative Framework for Communication Security in Distributed Cyber-Physical Systems" was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65">IEEE Network</a> 
-- 2023.10: Our paper "Efficient Vision Transformer for Human-Centric AIoT Applications Through Token Tracking Assignment" was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30">IEEE TCE</a> 
-- 2023.8: Our paper "Towards Communication-efficient Digital Twin via AI-powered Transmission and Reconstruction" was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49">IEEE JSAC</a> 
-- 2023.7: Three papers were accepted by <a href="https://2023.ieeeicip.org/"><b>ICIP 2013</b></a>. 1) Controlling Facial Attribute Synthesis by Disentangling Attribute Feature Axes in Latent Space 2) COCO-TEACH: A Contrastive Co-Teaching Network For Incremental 3D Object Detection 3) An Efficient Deep Video Model For Deepfake Detection.
+- 2023.10: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65">IEEE Network</a> 
+- 2023.10: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30">IEEE TCE</a> 
+- 2023.8: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49">IEEE JSAC</a> 
+- 2023.7: Three papers were accepted by <a href="https://2023.ieeeicip.org/"><b>ICIP 2013</b></a>. 
 - 2023.6: We are calling for paper submission to ICDM 2023 Workshop <a href="https://ml4cyber.github.io/23/"><b>Machine Learning for Cybersecurity (MLC)</b></a>  
 - 2023.5: We are calling for the support of Industry Sponsorship of IEEE 6th International Conference on Multimedia Information Processing and Retrieval <a href="http://www.ieee-mipr.org/"><b>MIPR 2013</b></a>
-- 2023.4: Our paper “SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein–Protein Interaction Prediction” was accepted by <a href="https://ijcai-23.org/"><b>IJCAI 2013</b></a>. 
+- 2023.4: One paper was accepted by <a href="https://ijcai-23.org/"><b>IJCAI 2013</b></a>. 
 - 2023.4: We are hiring research scientists (PhD) and engineers (non-PhD) to work on deep learning for 3D vision. 🔥🔥🔥 Refer to Job Openings for the details. 
 - 2023.3: Our MTC programmatic proposal got approved [Lead PI, SGD 10M], the credit goes to the team! 
