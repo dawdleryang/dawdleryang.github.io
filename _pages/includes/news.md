@@ -1,4 +1,6 @@
 # 📺 News
+- 2024.6: Two papers was accepted by <a href="https://conferences.miccai.org/2024/en/">MICCAI 2024</a>.
+- 2024.4: Four papers was accepted by <a href="https://embc.embs.org/2024/">EMBC 2024</a>.
 - 2024.3: One paper was accepted by <a href="https://cvpr.thecvf.com/">CVPR 2024</a>.
 - 2024.2: Our book "Deep Learning for 3D Vision: Algorithms and Applications" will be published soon by World Scientific Publishing, refer to <a href="https://www.worldscientific.com/worldscibooks/10.1142/13683#t=aboutBook">announce</a> and <a href="https://www.researchgate.net/publication/375467662_Deep_Learning_for_3D_Vision_Algorithms_and_Applications#fullTextFileContent">preface</a> for the preview of this book.   
 - 2024.2: We are calling for paper submission to <a href="https://sse.sysu.edu.cn/icnc2024/index.htm">ICNC-FSKD 2024</a>. Serving as the Organizing Committee Chair.  
