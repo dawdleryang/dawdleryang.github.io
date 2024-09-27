@@ -1,6 +1,11 @@
 # 📺 News
+- 2024.9: We are calling for paper submission to <a href="https://blocksys.info/2025/">BlockSys'2025</a>. Serving as the Industrial Chair. 
+- 2024.7: Two papers were accepted by <a href="https://ieee-itsc.org/2024/">ITSC 2024</a>.  
+- 2024.7: One papers were accepted by <a href="https://2024.acmmm.org/">ACM MM 2024</a>. 
+- 2024.7: Two papers were accepted by <a href="https://eccv.ecva.net/">ECCV 2024</a>.  
 - 2024.6: Two papers were accepted by <a href="https://conferences.miccai.org/2024/en/">MICCAI 2024</a>.
 - 2024.4: Four papers were accepted by <a href="https://embc.embs.org/2024/">EMBC 2024</a>.
+- 2024.4: One paper was accepted by  <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/">IEEE TNNLS</a>.
 - 2024.3: One paper was accepted by <a href="https://cvpr.thecvf.com/">CVPR 2024</a>.
 - 2024.2: Our book "Deep Learning for 3D Vision: Algorithms and Applications" will be published soon by World Scientific Publishing, refer to <a href="https://www.worldscientific.com/worldscibooks/10.1142/13683#t=aboutBook">announce</a> and <a href="https://www.researchgate.net/publication/375467662_Deep_Learning_for_3D_Vision_Algorithms_and_Applications#fullTextFileContent">preface</a> for the preview of this book.   
 - 2024.2: We are calling for paper submission to <a href="https://sse.sysu.edu.cn/icnc2024/index.htm">ICNC-FSKD 2024</a>. Serving as the Organizing Committee Chair.  
@@ -9,9 +14,9 @@
 - 2023.10: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65">IEEE Network</a> 
 - 2023.10: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30">IEEE TCE</a> 
 - 2023.8: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49">IEEE JSAC</a> 
-- 2023.7: Three papers were accepted by <a href="https://2023.ieeeicip.org/">ICIP 2013</a>. 
+- 2023.7: Three papers were accepted by <a href="https://2023.ieeeicip.org/">ICIP 2023</a>. 
 - 2023.6: We are calling for paper submission to ICDM 2023 Workshop <a href="https://ml4cyber.github.io/23/">Machine Learning for Cybersecurity (MLC)</a>  
-- 2023.5: We are calling for the support of Industry Sponsorship of IEEE 6th International Conference on Multimedia Information Processing and Retrieval <a href="http://www.ieee-mipr.org/">MIPR 2013</a>
-- 2023.4: One paper was accepted by <a href="https://ijcai-23.org/">IJCAI 2013</a>. 
+- 2023.5: We are calling for the support of Industry Sponsorship of IEEE 6th International Conference on Multimedia Information Processing and Retrieval <a href="http://www.ieee-mipr.org/">MIPR 2023</a>
+- 2023.4: One paper was accepted by <a href="https://ijcai-23.org/">IJCAI 2023</a>. 
 - 2023.4: We are hiring research scientists (PhD) and engineers (non-PhD) to work on deep learning for 3D vision. 🔥🔥🔥 Refer to Job Openings for the details. 
 - 2023.3: Our MTC programmatic proposal got approved [Lead PI, SGD 10M], the credit goes to the team! 
