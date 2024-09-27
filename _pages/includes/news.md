@@ -8,7 +8,7 @@
 - 2024.4: One paper was accepted by  <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/">IEEE TNNLS</a>.
 - 2024.3: One paper was accepted by <a href="https://cvpr.thecvf.com/">CVPR 2024</a>.
 - 2024.2: Our book "Deep Learning for 3D Vision: Algorithms and Applications" will be published soon by World Scientific Publishing, refer to <a href="https://www.worldscientific.com/worldscibooks/10.1142/13683#t=aboutBook">announce</a> and <a href="https://www.researchgate.net/publication/375467662_Deep_Learning_for_3D_Vision_Algorithms_and_Applications#fullTextFileContent">preface</a> for the preview of this book.   
-- 2024.2: We are calling for paper submission to <a href="https://sse.sysu.edu.cn/icnc2024/index.htm">ICNC-FSKD 2024</a>. Serving as the Organizing Committee Chair.  
+- 2024.2: We are calling for paper submission to <a href="https://sse.sysu.edu.cn/icnc2024/index.htm">ICNC-FSKD 2024</a>. Serving as the Proceedings Chair.  
 - 2024.1: One paper was accepted by <a href="https://www.nature.com/srep/">Scientific Reports</a>, <a href="https://rdcu.be/dwC0L">link</a>
 - 2023.12: Our proposal CARDIA-GM has been awarded for Venture Exploration Workshop (Phase I) by <a href="https://smart.mit.edu/innovation-centre/our-program/innovation-2-0">SMART Innovation 2.0 Grant</a>
 - 2023.10: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65">IEEE Network</a> 
