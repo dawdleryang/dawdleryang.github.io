@@ -3,5 +3,4 @@ I am currently a Principal Scientist and Group Leader in Institute for Infocomm 
 My research interests include:
 - 3D Scene Understanding
 - Biomedical & Biological Data Analysis
-- Machine Learning & Deep Learning 
-- Computer Vision & Image Processing 
+- Deep Learning for Computer Vision 
