@@ -1,8 +1,8 @@
 # 📺 News
-- 2024.9: One papers was accepted by <a href="https://nips.cc/">NeurIPS 2024</a>. 
+- 2024.9: One paper was accepted by <a href="https://nips.cc/">NeurIPS 2024</a>. 
 - 2024.9: We are calling for paper submission to <a href="https://blocksys.info/2025/">BlockSys'2025</a>. Serving as the Industrial Chair. 
 - 2024.7: Two papers were accepted by <a href="https://ieee-itsc.org/2024/">ITSC 2024</a>.  
-- 2024.7: One papers were accepted by <a href="https://2024.acmmm.org/">ACM MM 2024</a>. 
+- 2024.7: One paper was accepted by <a href="https://2024.acmmm.org/">ACM MM 2024</a>. 
 - 2024.7: Two papers were accepted by <a href="https://eccv.ecva.net/">ECCV 2024</a>.  
 - 2024.6: Two papers were accepted by <a href="https://conferences.miccai.org/2024/en/">MICCAI 2024</a>.
 - 2024.4: Four papers were accepted by <a href="https://embc.embs.org/2024/">EMBC 2024</a>.
