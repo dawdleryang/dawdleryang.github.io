@@ -2,7 +2,7 @@
 - 2025.1: One paper was accepted by <a href="https://2025.ieeeicassp.org/">ICASSP 2025</a>.. 
 - 2025.1: One paper was accepted by IEEE TMM, refer to <a href="https://ieeexplore.ieee.org/abstract/document/10882929/">this link</a>.
 - 2024.12: One paper was accepted by IEEE TIP, refer to <a href="https://ieeexplore.ieee.org/abstract/document/10819355">this link</a>.
-- 2024.12: Two papers were accepted by TMLR, <a href="https://openreview.net/pdf?id=P09rAv8UH7">Human-in-Loop TTA</a> and <a href="https://openreview.net/pdf?id=44qpZ6pkau">self-trained geometry regularization</a>
+- 2024.12: Two papers were accepted by TMLR, <a href="https://openreview.net/pdf?id=P09rAv8UH7">Paper 1</a> and <a href="https://openreview.net/pdf?id=44qpZ6pkau">Paper 2</a>
 - 2024.11: One paper was accepted by Neurocomputing, refer to <a href="https://authors.elsevier.com/a/1k0rW3INukSKhh">this link</a>. 
 - 2024.10: One paper was early (12%) accepted by <a href="https://wacv2025.thecvf.com/">WACV 2025</a>.
 - 2024.9: One paper was accepted by <a href="https://nips.cc/">NeurIPS 2024</a>. 
