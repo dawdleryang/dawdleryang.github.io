@@ -1,4 +1,12 @@
 # 📺 News
+/* - 2025.3: one paper was accepted by Neurocomputing, refer to <a href="https://authors.elsevier.com/a/1k0rW3INukSKhh">this link</a>. */
+- 2025.2: three papers were accetped by <a href="https://authors.elsevier.com/a/1k0rW3INukSKhh">CVPR 2025</a>.
+- 2025.2: one paper was accepted by <a href="https://authors.elsevier.com/a/1k0rW3INukSKhh">IEEE SPL</a>.
+- 2025.1: three papers were accepted by <a href="https://authors.elsevier.com/a/1k0rW3INukSKhh">ICLR 2025</a>..
+- 2025.1: one paper was accepted by <a href="https://authors.elsevier.com/a/1k0rW3INukSKhh">ICASSP 2025</a>.. 
+- 2025.1: one paper was accepted by IEEE TMM, refer to <a href="https://authors.elsevier.com/a/1k0rW3INukSKhh">this link</a>.
+- 2024.12: one paper was accepted by IEEE TIP, refer to <a href="https://authors.elsevier.com/a/1k0rW3INukSKhh">this link</a>.
+- 2024.12: two papers were accepted by TMLR, <a href="https://openreview.net/pdf?id=P09rAv8UH7">Human-in-Loop TTA</a> and <a href="https://openreview.net/pdf?id=44qpZ6pkau">self-trained geometry regularization</a>
 - 2024.11: One paper was accepted by Neurocomputing, refer to <a href="https://authors.elsevier.com/a/1k0rW3INukSKhh">this link</a>. 
 - 2024.10: One paper was early (12%) accepted by <a href="https://wacv2025.thecvf.com/">WACV 2025</a>.
 - 2024.9: One paper was accepted by <a href="https://nips.cc/">NeurIPS 2024</a>. 
