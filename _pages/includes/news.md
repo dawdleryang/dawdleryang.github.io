@@ -1,7 +1,7 @@
 # 📺 News
 - 2025.5: Honored to serve as an Associate Editor for IEEE TIP.
-- 2025.5 One paper was accepted by ICML 2025
-- 2025.3 Two paper were accepted by ICME 2025
+- 2025.5: One paper was accepted by ICML 2025
+- 2025.3: Two paper were accepted by ICME 2025
 - 2025.3: One paper was accepted by Neurocomputing.
 - 2025.2: Three papers were accepted by CVPR 2025. 
 - 2025.2: One paper was accepted by IEEE SPL. 
