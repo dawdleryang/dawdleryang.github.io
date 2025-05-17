@@ -1,4 +1,15 @@
 # 📺 News
+- 2025.5: Honored to serve as an Associate Editor for IEEE TIP.
+- 2025.5 One paper was accepted by ICML 2025
+- 2025.3 Two paper were accepted by ICME 2025
+- 2025.3: One paper was accepted by Neurocomputing.
+- 2025.2: Three papers were accepted by CVPR 2025. 
+- 2025.2: One paper was accepted by IEEE SPL. 
+- 2025.1: Three papers were accepted by ICLR 2025. 
+- 2025.1: One paper was accepted by ICASSP 2025.
+- 2025.1: One paper was accepted by IEEE TMM.
+- 2024.12: One paper was accepted by IEEE TIP.
+- 2024.12: Two papers were accepted by TMLR.
 - 2024.11: One paper was accepted by Neurocomputing, refer to <a href="https://authors.elsevier.com/a/1k0rW3INukSKhh">this link</a>. 
 - 2024.10: One paper was early (12%) accepted by <a href="https://wacv2025.thecvf.com/">WACV 2025</a>.
 - 2024.9: One paper was accepted by <a href="https://nips.cc/">NeurIPS 2024</a>. 
