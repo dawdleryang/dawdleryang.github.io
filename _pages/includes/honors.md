@@ -1,5 +1,6 @@
 # 🥇 Honors
-- 2013-now Senior IEEE Member; 2017-now Kaggle Competition Master 
+- 2025-now Associate Editor for IEEE TIP, IEEE TNNLS, Scientific Reports
+- 2013-now Senior IEEE Member; 2017-now Kaggle Competition Master
 - 2016-2018 Kaggle Competitions: 2 gold, 7 sliver, 2 bronze
   
         - Intel & MobileOTD Cervical Cancer Screening, Rank 3rd/848 (USD10k), Top 1%
