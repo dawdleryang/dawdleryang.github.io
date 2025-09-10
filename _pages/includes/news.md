@@ -1,7 +1,7 @@
 # 📺 News
 - 2025.8: Our NHIC I2D (Innovation to Development) project on MVO Detection is shortlisted.
 - 2025.8: Our AI for Semiconductor COE (Center of Excellence) project on Anomaly Detection is approved in principle. 
-- 2025.8: Honored to serve as an AE for IEEE TNNLS
+- 2025.8: Honored to serve as an Associate Editor for IEEE TNNLS
 - 2025.7: Call for papers - Scientific Reports special issue:- Deep learning for image analysis 
 - 2025.7: Call for papers - IEEE IOT Journal special issue:- Effective, Efficient, and Trustworthy AI Agents for the Internet of Things 
 - 2025.6: Four papers were accepted by ICCV 2025, Congrats to Shijie and Yiting 
