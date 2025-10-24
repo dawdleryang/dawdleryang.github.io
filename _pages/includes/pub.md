@@ -1,18 +1,21 @@
 # 📝 Publications 
-- G Rui, W Liu, Z GU, <b> X Yang</b>, J Cheng, Learning Intra-view and Cross-view Geometric Knowledge for Stereo Matching, CVPR 2024
-- S Zhao, <b> X Yang\*</b>, Z Zeng, et. al, Deep learning based CETSA feature prediction cross multiple cell lines with latent space representation, Scientific Reports, 2024
-- C Li, Y Peng, G Liu, Y Li, <b> X Yang</b>, L Zhang, C Chen, Efficient Vision Transformer for Human-Centric AIoT Applications Through Token Tracking Assignment, IEEE Transactions on Consumer Electronics, 2023
-- C Chen, Y Li, Q Wang, <b> X Yang</b>, X Wang, LT Yang, An Intelligent Edge-Cloud Collaborative Framework for Communication Security in Distributed Cyber-Physical Systems, IEEE Network, 2023
-- M. Li, C. Chen, <b> X Yang</b>, J. Zhou, T. Zhang, Y. Li, *Towards Communication-efficient Digital Twin via AI-powered Transmission and Reconstruction*, IEEE Journal on Selected Areas in Communications, 2023
-- R Sun, Z Zhao, L Shen, Z Zeng, Y Li, B Veeravalli, <b> X Yang</b>, *An Efficient Deep Video Model For Deepfake Detection*, IEEE International Conference on Image Processing (ICIP), 2023
-- Z Cheng, C Chen, Z Zhao, P Qian, X Li, <b> X Yang</b>, *COCO-TEACH: A Contrastive Co-Teaching Network For Incremental 3D Object Detection*, IEEE International Conference on Image Processing (ICIP), 2023
-- Q Wei, W Zheng, Y Li, Z Cheng, Z Zeng, <b> X Yang</b>, *Controlling Facial Attribute Synthesis by Disentangling Attribute Feature Axes in Latent Space*, IEEE International Conference on Image Processing (ICIP), 2023
-- H Wang, <b> X Yang</b>, *Efficient Practices for Profile-to-Frontal Face Synthesis and Recognition*, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
-- Z Zhao, P Qian, <b>X Yang\*</b>, Z Zeng, C Guan, WL Tam, X Li, *SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein–Protein Interaction Prediction*, International Joint Conference on Artificial Intelligence (IJCAI), 2023
-- Z Zhao, K Xu, HZ Yeo, <b>X Yang</b>, C Guan, *MS-MT: Multi-Scale Mean Teacher with Contrastive Unpaired Translation for Cross-Modality Vestibular Schwannoma and Cochlea Segmentation*, arXiv:2303.15826, 2023
-- H Wang, H Zhang, L Yu, <b> X Yang</b>, *Facial feature embedded CycleGAN for VIS–NIR translation*, Multidimensional Systems and Signal Processing, 2023
-- J Chen, Q Deng, <b> X Yang</b>, *Non-cooperative game algorithms for computation offloading in mobile edge computing environments*, Journal of Parallel and Distributed Computing, 2023
-- X Zou, C Chen, <b> X Yang</b>, W Wei, K Li, *DGSLN: Differentiable Graph Structure Learning Neural Network for Robust Graph Representations*, Information Science, 2023
-- Y Zhou, Z Huang, <b> X Yang\*</b>, M Ang, TK Ng, *GCM: Efficient Video Recognition with Glance and Combine Module*, Pattern Recognition, 2023
+-	S Li, Z Cheng, R Li, S Li, J Gall, X Xu, X Yang, Global-Aware Monocular Semantic Scene Completion with State Space Models, ICCV 2025
+-	S Li, C Liu, X Xu, SY Yeo, X Yang, Future-Aware Interaction Network for Motion Forecasting, ICCV 2025
+-	Y Li, F Liu, J Liao, S Tian, CS Foo, X Yang, FIND: Few-Shot Anomaly Inspection with Normal-Only Multi-Modal Data, ICCV 2025
+-	T Chen, Y Li, A Goodge, F Teng, X Yang, T Li, X Xu, Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation, ICCV 2025
+-	Y Pan, Q Cui, X Yang, N Zhao, How Do Images Align and Complement LiDAR: Towards a Harmonized Multi-modal 3D Panoptic Segmentation, ICML 2025
+-	R Gong, KH Yap, W Liu, X Yang, J Cheng, Rectification-specific Supervision and Constrained Estimator for Online Stereo Rectification, CVPR 2025
+-	Rong Li, Shijie Li, Lingdong Kong, X Yang, Junwei Liang, SeeGround: See and Ground for Zero-shot Open-Vocabulary 3D Visual Grounding, CVPR 2025
+-	Z Zhang, Y Yu, Y Chen, X Yang, SY Yeo，MedUnifier: Unifying Vision-and-Language Pre-training on Medical Data with Vision Generation Task using Discrete Visual Representations, CVPR 2025 
+-	L. Cai, C.S. Foo, X. Xu, Z. Gu, J. Cheng, X. Yang, Evidential learning-based Certainty Estimation for Robust Dense Feature Matching, ICLR 2025
+-	X. Yang, C. Cheng, X. Yang, F. Liu, G. Lin, Text-to-Image Rectified Flow as Plug-and-Play Priors, ICLR 2025
+-	Y Yan, J Cheng, X Yang, S Leng, RS Tan, L Zhong, J Rajapakse, Dual Correlation-aware Mamba for Microvascular Obstruction Identification in Non-contrast Cine Cardiac Magnetic Resonance, MICCAI 2025
+-	J Liu, SY Tan, X Yang, Y Xu, SY Yeo, EFFDNet: A Scribble-Supervised Medical Image Segmentation Method with Enhanced Foreground Feature Discrimination, MICCAI 2025
+-	Y Yu, C Kok, J Wang, J Cheng, S Leng, RS Tan, L Zhong, X Yang*, Spatiotemporal-Sensitive Network for Microvascular Obstruction Segmentation from Cine Cardiac Magnetic Resonance, MICCAI 2025
+-	Y. Su, Y. Li, N Liu, K. Jia, X. Yang, C.S. Foo, X. Xun, On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning, ICLR 2025. 
+-	Z. Cheng, F. Wu, P. Qian, Z. Zhao, X Yang, AIC3DOD: Advancing Indoor Class-Incremental 3D Object Detection with Point Transformer Architecture and Room Layout Constraints, WACV 2025
+-	Y Zhu, L Cai, K Lu, F Liu, X Yang, Exploring Active Learning for Label-Efficient Training of Semantic Neural Radiance Field, ICME 2025
+-	J Zhang, Q Cui, X Yang, N Zhao, OcSplats: Rendering Occluded Humans with Prior Knowledge, ICME 2025
+
 
 
