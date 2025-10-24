@@ -1,4 +1,5 @@
 # 📺 News
+- 2025.10: Our IPSR (international partnerships for semiconductor research) project on AI-powered mutli-layer film thickness measurement is approved in principle.  
 - 2025.8: Our NHIC I2D (Innovation to Development) project on MVO Detection is shortlisted.
 - 2025.8: Our AI for Manufacturing COE (Center of Excellence) project on Anomaly Detection is approved in principle. 
 - 2025.8: Honored to serve as an Associate Editor for IEEE TNNLS.
