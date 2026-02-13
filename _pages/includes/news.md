@@ -1,4 +1,7 @@
 # 📺 News
+- 2026-1: We won AAAI 2026 Best Demonstration Award, ranking #1 among 72 live demos.
+- 2025-11: Two main track papers and one demo paper were accepted by AAAI 2026. 
+- 2025-11: We ranked 2nd place in Challenge of Multimodal Robot Learning in InternUtopia and Real World and 1st place in simulation stage at IROS2025.
 - 2025.10: Our IPSR (international partnerships for semiconductor research) project on AI-powered mutli-layer film thickness measurement is approved in principle.  
 - 2025.8: Our NHIC I2D (Innovation to Development) project on MVO Detection is shortlisted.
 - 2025.8: Our AI for Manufacturing COE (Center of Excellence) project on Anomaly Detection is approved in principle. 
