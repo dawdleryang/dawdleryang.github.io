@@ -1,4 +1,6 @@
 # 🥇 Honors
+- 2026    Best Demonstration Award AAAI 2026, 1st/253
+- 2025    2nd place in Challenge of Multimodal Robot Learning in InternUtopia and Real World and 1st place in simulation stage at IROS2025.
 - 2025-now Associate Editor for IEEE Trans. Image Processing; IEEE Trans. Neural Networks and Learning Systems
 - 2024-now Editor Board for Scientific Reports
 - 2013-now Senior IEEE Member; 2017-now Kaggle Competition Master
