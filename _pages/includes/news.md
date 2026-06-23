@@ -1,10 +1,11 @@
 # 📺 News
+- 2026-4: Our Semiconductor Flagship project on 3D reconstruction of Metalens pillar-array from one single 2D SEM image is approved.   
 - 2026-1: We won AAAI 2026 Best Demonstration Award, ranking #1 among 72 live demos.
 - 2025-11: Two main track papers and one demo paper were accepted by AAAI 2026. 
 - 2025-11: We ranked 2nd place in Challenge of Multimodal Robot Learning in InternUtopia and Real World and 1st place in simulation stage at IROS2025.
-- 2025.10: Our IPSR (international partnerships for semiconductor research) project on AI-powered mutli-layer film thickness measurement is approved in principle.  
-- 2025.8: Our NHIC I2D (Innovation to Development) project on MVO Detection is shortlisted.
-- 2025.8: Our AI for Manufacturing COE (Center of Excellence) project on Anomaly Detection is approved in principle. 
+- 2025.10: Our IPSR (international partnerships for semiconductor research) project on AI-powered mutli-layer film thickness measurement is approved.  
+- 2025.8: Our NHIC I2D (Innovation to Development) project on MVO Detection is approved.
+- 2025.8: Our AI for Manufacturing COE (Center of Excellence) project on Anomaly Detection is approved. 
 - 2025.8: Honored to serve as an Associate Editor for IEEE TNNLS.
 - 2025.7: Call for papers - Scientific Reports special issue: Deep learning for image analysis, refer to <a href="https://www.nature.com/collections/hdbiccagfd">this link</a>.
 - 2025.7: Call for papers - IEEE IOT Journal special issue: Effective, Efficient, and Trustworthy AI Agents for the Internet of Things, refer to <a href="https://ieee-iotj.org/wp-content/uploads/2025/07/Effective_Efficient_Trustworthy_AI_Agents.pdf">this link</a>.
