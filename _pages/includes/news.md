@@ -1,5 +1,6 @@
 # 📺 News
-- 2026-4: Our Semiconductor Flagship project on 3D reconstruction of Metalens pillar-array from one single 2D SEM image is approved.   
+- 2026-4: Our Semiconductor Flagship project on 3D reconstruction of Metalens pillar-array from one single 2D SEM image is approved.
+- 2026-1: Three papers were accepted by ICLR 2026. 
 - 2026-1: We won AAAI 2026 Best Demonstration Award, ranking #1 among 72 live demos.
 - 2025-11: Two main track papers and one demo paper were accepted by AAAI 2026. 
 - 2025-11: We ranked 2nd place in Challenge of Multimodal Robot Learning in InternUtopia and Real World and 1st place in simulation stage at IROS2025.
