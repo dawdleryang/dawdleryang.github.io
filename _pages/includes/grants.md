@@ -1,5 +1,6 @@
 # 💲 Grants 
 <b> Current (2021-now) </b>
+- <b> Co-Principal Investigator </b>, “ASTAR – NFI Joint Lab on AFM Innovation”, IAF-ICP (Industry Alignment Fund – Industry Collaboration Projects), SGD 5.83M, 2027-2030
 - <b> Lead Principal Investigator </b>, "Towards Realistic Deep Learning for 3D Vision", MTC Programmatic Programme, SGD 9.77M, 2023-2026.
 - <b> Lead Principal Investigator </b>, "AI-Powered SEM 3D Reconstruction for Metalens Array Visualization and Design-of-Experiments Analysis", Semiconductor Flagship, SGD 878K, 2026-2027
 - <b> Co-Principal Investigator (Team PI) </b>, “AI-Powered Optical Metrology for Semiconductor Multilayer Thickness Measurements”, IPSR (International partnerships for semiconductor research), SGD 2.57M, 2026-2028
