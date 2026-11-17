@@ -1,6 +1,5 @@
 # 📺 News
-- 2026-11: Our IAF-ICP project "A*STAR – NFI Joint Lab on AFM Innovation" is approved, kick-off soon.
-- 2026-9: Serve as an Associate Editor for Neurocomputing.
+- 2026-9: Our IAF-ICP project "A*STAR – NFI Joint Lab on AFM Innovation" is approved.
 - 2026-6: Five papers were accepted by ECCV 2026.
 - 2026-3: Two papers were accepted by ICME 2026.
 - 2026-2: Five papers were accepted by CVPR 2026. 
