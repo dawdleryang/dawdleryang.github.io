@@ -1,4 +1,9 @@
 # 📺 News
+- 2026-11: Our IAF-ICP project "A*STAR – NFI Joint Lab on AFM Innovation" is approved, kick-off soon.
+- 2026-9: Serve as an Associate Editor for Neurocomputing.
+- 2026-6: Five papers were accepted by ECCV 2026.
+- 2026-3: Two papers were accepted by ICME 2026.
+- 2026-2: Five papers were accepted by CVPR 2026. 
 - 2026-4: Our Semiconductor Flagship project on 3D reconstruction of Metalens pillar-array from one single 2D SEM image is approved.
 - 2026-1: Three papers were accepted by ICLR 2026. 
 - 2026-1: We won AAAI 2026 Best Demonstration Award, ranking #1 among 72 live demos.
